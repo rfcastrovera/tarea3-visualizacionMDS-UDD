@@ -95,6 +95,10 @@ Redacta una recomendación estratégica basada en evidencia cuantitativa para ej
 Prompt 5:
 Revisa el storytelling para reducir carga cognitiva, eliminar redundancias y mejorar la fluidez narrativa.
 
+
+
 BIBLIOGRAFÍA Y FUENTES
 Netflix Movies & TV Shows Dataset – Kaggle
 Material del curso Visualización de Datos y Storytelling
+
+Nota:  Las justificaciones de los gráficos está en nota del presentador,  por favor considerar.
